@@ -2,7 +2,7 @@
 ## China mainland domains
 ## Get the latest database: https://github.com/xinhugo/Free-List/blob/master/WhiteList.txt
 ## Report an issue: https://github.com/xinhugo/Free-List/issues
--e ## Last update: 2026-05-18
+-e ## Last update: 2026-05-20
 
 .*\b0\.xn--czrs0t
 .*\b0\.xn--unup4y
@@ -3857,6 +3857,7 @@
 .*\b333-555\.com
 .*\b333\.com
 .*\b333\.xn--czrs0t
+.*\b3331\.com
 .*\b33315\.com
 .*\b333232\.xyz
 .*\b333333\.com
@@ -16036,6 +16037,7 @@
 .*\bbhshunhui\.com
 .*\bbhshyy\.com
 .*\bbhsr\.com
+.*\bbhsun\.com
 .*\bbhszyyy\.com
 .*\bbhtv\.cc
 .*\bbhuitong\.com
@@ -49052,7 +49054,6 @@
 .*\bhujingnb\.com
 .*\bhuke88\.com
 .*\bhukeck\.com
-.*\bhukelc\.com
 .*\bhukenb\.com
 .*\bhukexyy\.com
 .*\bhukou021\.com
@@ -50260,6 +50261,7 @@
 .*\bhzzp\.com
 .*\bhzzpko3186\.vip
 .*\bhzzqzc\.com
+.*\bhzzred\.com
 .*\bhzzrmc\.com
 .*\bhzzsfs\.com
 .*\bhzzsxh\.com
@@ -54435,6 +54437,7 @@
 .*\bjidubook\.com
 .*\bjidujiao\.com
 .*\bjidujiasu\.com
+.*\bjie\.ge
 .*\bjieanjiaotong\.com
 .*\bjiebai\.com
 .*\bjiebanchuyou\.com
@@ -54762,6 +54765,7 @@
 .*\bjingdudai\.com
 .*\bjingdukaoyan\.com
 .*\bjingdw\.com
+.*\bjingeshou\.com
 .*\bjingge\.com
 .*\bjinggeng\.net
 .*\bjinggon\.com
@@ -55443,6 +55447,7 @@
 .*\bjj0833\.com
 .*\bjj20\.com
 .*\bjj59\.com
+.*\bjj5agame\.com
 .*\bjj831\.com
 .*\bjj99\.icu
 .*\bjjbang\.com
@@ -55910,7 +55915,6 @@
 .*\bjnyng\.com
 .*\bjnyyjt\.com
 .*\bjnzhuoxin\.com
-.*\bjnzjzx\.net
 .*\bjnzl\.com
 .*\bjnzongchi\.com
 .*\bjnzx\.cc
@@ -67295,6 +67299,7 @@
 .*\bmodelevel\.com
 .*\bmodelltd\.com
 .*\bmodelones\.com
+.*\bmodelscope\.ai
 .*\bmodelscope\.net
 .*\bmodelwhale\.com
 .*\bmodeng178\.com
@@ -77449,7 +77454,6 @@
 .*\bqygjyey\.com
 .*\bqyglzz\.com
 .*\bqygvip128\.com
-.*\bqygvip40\.com
 .*\bqyhgsb\.com
 .*\bqyhl\.vip
 .*\bqyhr\.org
@@ -78423,7 +78427,6 @@
 .*\brightpaddle\.com
 .*\brigol\.com
 .*\brigouwang\.com
-.*\briitao\.com
 .*\briji001\.com
 .*\briji100zi\.com
 .*\brijigu\.com
@@ -80474,7 +80477,6 @@
 .*\bsdglql\.com
 .*\bsdgmjiaoyun\.com
 .*\bsdgren\.com
-.*\bsdgsdggg\.xyz
 .*\bsdgsgcjsjt\.com
 .*\bsdgsjc\.com
 .*\bsdgslb\.com
@@ -80551,6 +80553,7 @@
 .*\bsdjcf\.com
 .*\bsdjcsh\.com
 .*\bsdjcw\.com
+.*\bsdjcxxgs\.com
 .*\bsdjiance\.com
 .*\bsdjiankan\.com
 .*\bsdjianmei\.com
@@ -95499,6 +95502,7 @@
 .*\bwcjm\.org
 .*\bwclbox\.com
 .*\bwcloud\.com
+.*\bwcloudcdn\.com
 .*\bwcode\.net
 .*\bwcp\.hk
 .*\bwcqjyw\.com
@@ -97259,7 +97263,6 @@
 .*\bwise-iot\.com
 .*\bwise99\.com
 .*\bwiseasy\.com
-.*\bwisebond\.net
 .*\bwisecity\.net
 .*\bwisecotech\.com
 .*\bwisedoo\.com
@@ -98307,6 +98310,7 @@
 .*\bwujue\.com
 .*\bwukaikai\.tech
 .*\bwukao\.com
+.*\bwukazhifupos\.com
 .*\bwukong\.com
 .*\bwukong\.la
 .*\bwukongbjb\.com
@@ -109749,6 +109753,7 @@
 .*\bzhenyunpan\.com
 .*\bzhenzhuchanfu\.com
 .*\bzheshenet\.com
+.*\bzheshouka\.com
 .*\bzhetao\.com
 .*\bzhetian\.org
 .*\bzhetouniu\.com
